@@ -1115,9 +1115,9 @@ ul.office-details {
 ul.office-details li {
     font-family: "Open Sans", sans-serif;
     margin-top: 12px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
 }
 
 ul.office-details li i {
